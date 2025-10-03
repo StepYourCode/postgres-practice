@@ -12,8 +12,6 @@ A comprehensive PostgreSQL learning environment designed for database practice a
 - [Usage](#-usage)
 - [Database Management](#-database-management)
 - [Learning Resources](#-learning-resources)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
 
 ## 🎯 Overview
 
