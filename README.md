@@ -257,7 +257,7 @@ ports:
 2. Check that containers are running: `docker-compose ps`
 3. Test database connectivity:
    ```bash
-   docker-compose exec pg-db pg_isready -U postgres
+   docker compose exec pg-db pg_isready -U postgres
    ```
 
 #### Permission Issues
@@ -290,38 +290,6 @@ docker compose exec pg-db bash
 docker compose ps
 ```
 
-## 🤝 Contributing
-
-We welcome contributions to improve this learning environment!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Suggested Improvements
-
-- Add sample data scripts
-- Include additional database exercises
-- Create performance testing configurations
-- Add monitoring and logging setups
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Search existing issues
-3. Create a new issue with detailed information
-4. Contact the project maintainers
-
 ---
-
-## Happy Learning! 🎓💾
 
 Built with ❤️ for MyDigitalSchool Paris students
